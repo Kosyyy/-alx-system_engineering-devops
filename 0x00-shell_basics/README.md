@@ -5,3 +5,4 @@ ls -l -display current directory contents in long format
 ls -al  - display currentdirectorycontents,including hidden files .
 ls -lna - display current directory contents in long format,with user and group idsdisplayed numerically and hiddenfiles
 mkdir - to make directory
+mv -to move a file 
