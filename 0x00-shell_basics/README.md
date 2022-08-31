@@ -14,4 +14,5 @@ file
 ln -s/bin/ls ls
 cp -n *.html move html files to parent working dir
 mv [[:upper:]]*
-rm *  
+rm *
+mkdir -p  
