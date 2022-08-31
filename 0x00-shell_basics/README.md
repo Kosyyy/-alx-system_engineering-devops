@@ -12,4 +12,5 @@ cd -  -change dir to previous one
 ls -la
 file
 ln -s/bin/ls ls
-cp -n *.html move html files to parent working dir 
+cp -n *.html move html files to parent working dir
+mv [[:upper:]]*  
