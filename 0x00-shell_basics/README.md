@@ -8,4 +8,5 @@ mkdir - to make directory
 mv -to move a file
 rm -remove a file
 rmdir -remove a directory
-cd .. -change dir to previous one 
+cd -  -change dir to previous one 
+ls -la
