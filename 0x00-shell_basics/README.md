@@ -11,4 +11,5 @@ rmdir -remove a directory
 cd -  -change dir to previous one 
 ls -la
 file
-ln -s/bin/ls ls 
+ln -s/bin/ls ls
+cp -n *.html move html files to parent working dir 
