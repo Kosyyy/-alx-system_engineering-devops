@@ -7,4 +7,5 @@ ls -lna - display current directory contents in long format,with user and group 
 mkdir - to make directory
 mv -to move a file
 rm -remove a file
-rmdir -remove a directory 
+rmdir -remove a directory
+cd .. -change dir to previous one 
