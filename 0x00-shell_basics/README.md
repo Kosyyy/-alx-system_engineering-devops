@@ -10,3 +10,4 @@ rm -remove a file
 rmdir -remove a directory
 cd -  -change dir to previous one 
 ls -la
+file 
